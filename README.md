@@ -68,3 +68,6 @@ Tahap pembuatan model memiliki langkah-langkah sebagai berikut:
 - Membuat evaluasi netral: Mengulangi langkah sebelumnya untuk sentimen netral.
 - Membuat evaluasi positif: Mengulangi langkah sebelumnya untuk sentimen positif.
 - Membuat evaluasi gabungan: Mengulangi langkah sebelumnya untuk sentimen gabungan.
+
+# 5. Link presentasi
+https://youtu.be/fLCYga9WMA4?si=kwnzwUxRWidsfiIV
